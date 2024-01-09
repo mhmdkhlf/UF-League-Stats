@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="FacetManager">
+    <facet type="jpa" name="JPA">
+      <configuration>
+        <setting name="validation-enabled" value="true" />
+        <setting name="provider-name" value="Hibernate" />
+        <datasource-mapping>
+          <factory-entry name="entityManagerFactory" value="fc3f8e1b-acc8-460d-9b28-cc583e5173b3" />
+          <factory-entry name="uf-league-stats" value="fc3f8e1b-acc8-460d-9b28-cc583e5173b3" />
+        </datasource-mapping>
+        <naming-strategy-map />
+      </configuration>
+    </facet>
+  </component>
+  <component name="SonarLintModuleSettings">
+    <option name="uniqueId" value="8f1cb274-760e-45eb-a5f3-d048db8d7d92" />
+  </component>
+</module>
